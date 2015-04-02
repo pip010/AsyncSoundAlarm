@@ -1,0 +1,13 @@
+PulseAudio : http://manpages.ubuntu.com/manpages/hardy/man1/padsp.1.html
+http://ubuntuforums.org/showthread.php?t=1150048
+https://help.ubuntu.com/community/alsa-oss
+http://www.linuxquestions.org/questions/programming-9/c-playing-a-wav-file-with-lib-asound-4175467877/
+http://www.alsa-project.org/alsa-doc/alsa-lib/_2test_2pcm_8c-example.html
+
+
+
+
+Advanced ALSA Ubuntu
+https://wiki.ubuntu.com/Audio/UpgradingAlsa/DKMS
+
+sudo aptitude install libasound2-dev
